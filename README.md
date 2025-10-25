@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/drewcaelanhoward/threat-hunting-scenario-tor)**
-
+- **[PowerShell Suspicious Web Requests](https://github.com/drewcaelanhoward/Alert-Rule--PowerShell-Suspicious-Web-Request-/blob/main/README.md)**
 
 <hr/>
 
