@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/drewcaelanhoward/threat-hunting-scenario-tor)**
 - **[PowerShell Suspicious Web Requests](https://github.com/drewcaelanhoward/Alert-Rule--PowerShell-Suspicious-Web-Request-/blob/main/README.md)**
-- **[Cyber Threat Hunt Scenario #2](https://github.com/drewcaelanhoward/Cyber-Threat-Hunt)**
+- **[Threat Hunt Suspicious “Support Session” Activity](https://github.com/drewcaelanhoward/Cyber-Threat-Hunt)**
 <hr/>
 
 ## 🤳 Connect With Me
